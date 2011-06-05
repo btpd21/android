@@ -80,12 +80,14 @@
   <project path="device/motorola/zeppelin" name="CyanogenMod/android_device_motorola_zeppelin" remote="github" />
   <project path="device/sample" name="device/sample" />
   <project path="device/samsung/aries-common" name="CyanogenMod/android_device_samsung_aries-common" remote="github" />
+  <project path="device/samsung/c1-common" name="teamhacksung/android_device_samsung_c1-common" remote="github" />
   <project path="device/samsung/captivatemtd" name="CyanogenMod/android_device_samsung_captivatemtd" remote="github" />
   <project path="device/samsung/charge" name="CyanogenMod/android_device_samsung_charge" remote="github" />
   <project path="device/samsung/crespo" name="CyanogenMod/android_device_samsung_crespo" remote="github" />
   <project path="device/samsung/crespo4g" name="CyanogenMod/android_device_samsung_crespo4g" remote="github" />
   <project path="device/samsung/epic4g" name="CyanogenMod/android_device_samsung_epic4g" remote="github" />
   <project path="device/samsung/fascinate" name="CyanogenMod/android_device_samsung_fascinate" remote="github" />
+  <project path="device/samsung/galaxys2" name="teamhacksung/android_device_samsung_galaxys2" remote="github" />
   <project path="device/samsung/galaxysmtd" name="CyanogenMod/android_device_samsung_galaxysmtd" remote="github" />
   <project path="device/samsung/galaxysbmtd" name="CyanogenMod/android_device_samsung_galaxysbmtd" remote="github" />
   <project path="device/samsung/vibrantmtd" name="CyanogenMod/android_device_samsung_vibrantmtd" remote="github" />
@@ -286,5 +288,6 @@
   <project path="android" name="teamhacksung/android" remote="github" />
   <project path="kernel/samsung/aries" name="teamhacksung/android_kernel_samsung_aries" remote="github" revision="android-samsung-2.6.35" />
   <project path="kernel/samsung/c1" name="teamhacksung/android_kernel_samsung_c1" remote="github" revision="android-samsung-2.6.35.7" />
+  <project path="vendor/samsung" name="teamhacksung/proprietary_vendor_samsung" remote="github" />
 
 </manifest>
